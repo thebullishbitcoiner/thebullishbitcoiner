@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thebullishbitcoiner
-- 👀 I’m interested in ₿itcoin
-- 🌱 I’m currently learning ₿itcoin
-- 💞️ I’m looking to collaborate on ₿itcoin
+- 💭 I’m interested in ₿itcoin
+- 📑 I’m currently learning ₿itcoin
+- 🤝 I’m looking to collaborate on ₿itcoin
 - 📫 How to reach me: thebullishbitcoiner@gmail.com
 
 <!---
